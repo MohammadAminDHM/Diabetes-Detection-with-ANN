@@ -1,7 +1,7 @@
 # Diabetes Detection with ANN
 
 This repository contains an implementation of an Artificial Neural Network (ANN) for the purpose of predicting diabetes based on various health metrics.
-![image](capture.PNG)
+![image](Capture.PNG)
 
 
 ## Overview
