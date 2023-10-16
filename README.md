@@ -31,10 +31,13 @@ The model is trained on the [Pima Indians Diabetes Database](https://www.kaggle.
 ## Usage
 
 1. Clone the repository:
+
 `git clone https://github.com/MohammadAminDHM/Diabetes-Detection-with-ANN.git)https://github.com/MohammadAminDHM/Diabetes-Detection-with-ANN.git`
 
 2. Navigate to the project directory and install required packages (assuming you're using pip):
+
 `cd Diabetes-Detection-with-ANN`
+
 `pip install -r requirements.txt`
 
 3. Run the application (specific command based on how you've set it up, e.g., `python app.py`)
